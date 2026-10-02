@@ -253,3 +253,7 @@ For issues, questions, or contributions, please open an issue on [GitHub](https:
 ---
 
 **Repository**: https://github.com/girishlade111/react-music-player-app
+
+---
+
+**Built by [Girish Lade](https://github.com/girishlade111)** · [ladestack.in](https://ladestack.in)
